@@ -1,4 +1,4 @@
-# 🙌 Programming-Jokes
+# 🙌 Programming jokes
 The web app displays programming jokes that will make your day!
 
 ## 🎨 How's it made ?
@@ -13,4 +13,4 @@ Check out my code to see how it is made.
 [Screenrecord ](https://github.com/anjaliB1/Programming-Jokes/assets/130470021/a29e88a3-7424-4d6a-b839-2bd034d88dbf)
 
 ## 👀 Wanna try it out ?
-[Random Quote Generator](https://anjalib1.github.io/Programming-Jokes/)
+[Programming jokes](https://anjalib1.github.io/Programming-Jokes/)
