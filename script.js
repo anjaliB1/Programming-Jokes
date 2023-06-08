@@ -1,7 +1,7 @@
 const setup = document.getElementById("setup");
 const delivery = document.getElementById("delivery");
 const btn = document.getElementById("btn");
-const url = "https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit";
+const url = "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit";
 
 function getJokes() {
     fetch(url).then(Response => Response.json().then(result => {
