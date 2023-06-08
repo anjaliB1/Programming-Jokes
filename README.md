@@ -13,4 +13,4 @@ Check out my code to see how it is made.
 [Screenrecord ]
 
 ## 👀 Wanna try it out ?
-[Programming jokes](https://anjalib1.github.io/Programming-Jokes/)
+[Random jokes](https://anjalib1.github.io/Programming-Jokes/)
